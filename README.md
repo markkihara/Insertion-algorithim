@@ -1,2 +1,2 @@
-# insertation-algorithim
-Implementation of the insertation algorithim in python
+# insertion-algorithim
+Implementation of the insertion algorithim in python
